@@ -1,0 +1,7 @@
+C:\torokmate\github\Gyak_09_06\Gyak_09_06\bin\Debug\Gyak_09_06.exe.config
+C:\torokmate\github\Gyak_09_06\Gyak_09_06\bin\Debug\Gyak_09_06.exe
+C:\torokmate\github\Gyak_09_06\Gyak_09_06\bin\Debug\Gyak_09_06.pdb
+C:\torokmate\github\Gyak_09_06\Gyak_09_06\obj\Debug\Gyak_09_06.csproj.AssemblyReference.cache
+C:\torokmate\github\Gyak_09_06\Gyak_09_06\obj\Debug\Gyak_09_06.csproj.CoreCompileInputs.cache
+C:\torokmate\github\Gyak_09_06\Gyak_09_06\obj\Debug\Gyak_09_06.exe
+C:\torokmate\github\Gyak_09_06\Gyak_09_06\obj\Debug\Gyak_09_06.pdb
